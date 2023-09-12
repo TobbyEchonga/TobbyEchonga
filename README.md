@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TobbyEchonga
 - 👀 I’m interested in swimming, football the real one and rugby
 - 🌱 I’m currently learning machine learning to understand AI better
-- 💞️ I’m looking to collaborate on devloping a fantasy mobile application in flutter...
 - 📫 Reach me on email: tobby.echonga@gmail.com
 
 <!---
