@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobbyEchonga
 - 👀 I’m interested in swimming, football the real one and rugby
-- 🌱 I’m currently learning machine learning to understand AI development
+- 🌱 I’m knowledgable in machine learning and data analysis
 - 📫 Reach me on email: tobby.echonga@gmail.com
 
 <!---
